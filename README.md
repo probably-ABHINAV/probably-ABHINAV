@@ -39,7 +39,7 @@ const abhinav = {
         "Cloud Architecture"
     ],
 
-    goals2024: [
+    goals2026: [
         "Contribute to 10+ open source projects",
         "Build 5 full-stack applications",
         "Learn advanced algorithms & data structures",
@@ -56,9 +56,7 @@ const abhinav = {
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify)](https://spotify-github-profile.vercel.app/api/spotify)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31yyeuxejeqf66vqmlymauzli7yy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yyeuxejeqf66vqmlymauzli7yy&redirect=true)
 
 *Coding is better with good music! 🎧*
 

@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🚀 ABHINAV RAJ
-### Full-Stack Developer | DevOps Engineer | Cloud Architect | AI Enthusiast
+### Computer Science Student | Full-Stack Developer | Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+Code;DevOps+%7C+Cloud+%7C+Infrastructure;Kubernetes+%7C+Docker+%7C+CI%2FCD;Always+Automating%2C+Always+Scaling;Infrastructure+as+Code+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+%7C+AI%2FML+%7C+DevOps;Always+Learning%2C+Always+Building;Open+Source+Contributor;Building+Tomorrow's+Technology" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=probably-ABHINAV&color=blueviolet&style=for-the-badge)](https://github.com/probably-ABHINAV)
 [![GitHub followers](https://img.shields.io/github/followers/probably-ABHINAV?style=for-the-badge&color=blue)](https://github.com/probably-ABHINAV)
@@ -15,33 +15,39 @@
 
 ## 🎯 About Me
 
-```yaml
-apiVersion: v1
-kind: Developer
-metadata:
-  name: abhinav-raj
-  labels:
-    role: "DevOps Engineer"
-    experience: "Senior"
-    location: "India 🇮🇳"
-spec:
-  expertise:
-    cloud_platforms: ["AWS", "Azure", "GCP"]
-    container_orchestration: ["Kubernetes", "Docker Swarm", "OpenShift"]
-    infrastructure_as_code: ["Terraform", "Ansible", "CloudFormation"]
-    ci_cd_tools: ["Jenkins", "GitLab CI", "GitHub Actions", "ArgoCD"]
-    monitoring_observability: ["Prometheus", "Grafana", "ELK Stack", "Datadog"]
-    programming_languages: ["Python", "Go", "Bash", "TypeScript", "Rust"]
-  current_focus:
-    - "Cloud-Native Architecture"
-    - "GitOps & DevSecOps"
-    - "Microservices & Service Mesh"
-    - "AI/ML Infrastructure"
-  certifications:
-    - "AWS Solutions Architect"
-    - "Kubernetes Administrator (CKA)"
-    - "Terraform Associate"
-  motto: "Automate Everything, Monitor Everything, Scale Everything 🚀"
+```javascript
+const abhinav = {
+    status: "Computer Science Student 🎓",
+    location: "India 🇮🇳",
+    currentYear: "Learning & Building",
+    passions: ["Coding", "Problem Solving", "Open Source", "Innovation"],
+
+    learningJourney: {
+        frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
+        backend: ["Node.js", "Python", "Go", "Java"],
+        mobile: ["Flutter", "React Native"],
+        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn"],
+        devops: ["Docker", "Kubernetes", "AWS", "CI/CD"],
+        blockchain: ["Ethereum", "Solidity", "Web3"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"]
+    },
+
+    currentlyLearning: [
+        "Advanced React Patterns",
+        "System Design",
+        "Machine Learning",
+        "Cloud Architecture"
+    ],
+
+    goals2024: [
+        "Contribute to 10+ open source projects",
+        "Build 5 full-stack applications",
+        "Learn advanced algorithms & data structures",
+        "Master cloud technologies"
+    ],
+
+    funFact: "I turn coffee into code and bugs into features! ☕→💻"
+};
 ```
 
 ---
@@ -54,25 +60,27 @@ spec:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify)](https://spotify-github-profile.vercel.app/api/spotify)
 
+*Coding is better with good music! 🎧*
+
 </div>
 
 ---
 
-## 🎮 Feeling Bored? Play Some Games!
+## 🎮 Need a Study Break?
 
 <div align="center">
 
-[![Dino Game](https://img.shields.io/badge/🦕_Chrome_Dino-Play_Now!-success?style=for-the-badge)](https://chromedino.com/)
-[![Snake Game](https://img.shields.io/badge/🐍_Snake_Game-Classic!-blue?style=for-the-badge)](https://playsnake.org/)
-[![Tetris](https://img.shields.io/badge/🧩_Tetris-Puzzle_Time!-purple?style=for-the-badge)](https://tetris.com/play-tetris)
+[![Dino Game](https://img.shields.io/badge/🦕_Chrome_Dino-Beat_Your_High_Score!-success?style=for-the-badge)](https://chromedino.com/)
+[![Snake Game](https://img.shields.io/badge/🐍_Snake_Game-Classic_Fun!-blue?style=for-the-badge)](https://playsnake.org/)
+[![Tetris](https://img.shields.io/badge/🧩_Tetris-Puzzle_Master!-purple?style=for-the-badge)](https://tetris.com/play-tetris)
 
-*Take a break from infrastructure and have some fun! 🎮*
+*Sometimes the best debugging happens during game breaks! 🎮*
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements & DevOps Metrics
+## 🏆 GitHub Stats & Learning Progress
 
 <div align="center">
 
@@ -83,10 +91,10 @@ spec:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=probably-ABHINAV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probably-ABHINAV&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🏅 Achievement Showcase
+### 🏅 Achievement Collection
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=probably-ABHINAV&theme=tokyonight&no-frame=true&row=2&column=6)
 
-### 🎯 DevOps Badge Collection
+### 🎯 Learning Milestones
 
 <table align="center">
 <tr>
@@ -94,21 +102,21 @@ spec:
 
 **🦈 Pull Shark**  
 ![Pull Shark](https://img.shields.io/badge/Pull_Shark-6%2F30_PRs-blue?style=for-the-badge&logo=github)  
-*Infrastructure PRs*
+*Open Source Contributor*
 
 </td>
 <td align="center">
 
 **⚡ Quickdraw**  
 ![Quickdraw](https://img.shields.io/badge/Quickdraw-✅_Achieved-green?style=for-the-badge&logo=github)  
-*Rapid Deployment!*
+*Fast Problem Solver!*
 
 </td>
 <td align="center">
 
 **🎲 YOLO**  
 ![YOLO](https://img.shields.io/badge/YOLO-✅_Achieved-green?style=for-the-badge&logo=github)  
-*Production Deploy!*
+*Confident Coder!*
 
 </td>
 </tr>
@@ -116,22 +124,22 @@ spec:
 <td align="center">
 
 **🧠 Galaxy Brain**  
-![Galaxy Brain](https://img.shields.io/badge/Galaxy_Brain-0%2F10_Answers-orange?style=for-the-badge&logo=github)  
-*DevOps Wisdom*
+![Galaxy Brain](https://img.shields.io/badge/Galaxy_Brain-Learning...-orange?style=for-the-badge&logo=github)  
+*Knowledge Seeker*
 
 </td>
 <td align="center">
 
 **⭐ Starstruck**  
 ![Starstruck](https://img.shields.io/badge/Starstruck-Building...-yellow?style=for-the-badge&logo=github)  
-*Infrastructure Tools*
+*Project Builder*
 
 </td>
 <td align="center">
 
 **👥 Pair Extraordinaire**  
-![Pair](https://img.shields.io/badge/Pair_Extraordinaire-Planning...-purple?style=for-the-badge&logo=github)  
-*DevOps Team*
+![Pair](https://img.shields.io/badge/Pair_Extraordinaire-Collaborating...-purple?style=for-the-badge&logo=github)  
+*Team Player*
 
 </td>
 </tr>
@@ -141,7 +149,7 @@ spec:
 
 ---
 
-## 🚀 Featured DevOps Projects
+## 🚀 Featured Learning Projects
 
 <div align="center">
 
@@ -149,111 +157,125 @@ spec:
 <tr>
 <td width="50%">
 
-### 🤖 AI-Powered DevOps Assistant
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=probably-ABHINAV&repo=ai-devops-assistant&theme=tokyonight&hide_border=true)](https://github.com/probably-ABHINAV/ai-devops-assistant)
+### 🤖 Next.js AI SaaS Platform
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=probably-ABHINAV&repo=nextjs-ai-saas-platform&theme=tokyonight&hide_border=true)](https://github.com/probably-ABHINAV/nextjs-ai-saas-platform)
 
-**Tech Stack:** Python, FastAPI, TensorFlow, Kubernetes  
-🤖 Intelligent pipeline optimization | 📊 Performance monitoring | 🔄 Auto-scaling
+**Learning Focus:** Modern React, AI Integration, Full-Stack Development  
+🎯 AI-powered features | 💳 Payment systems | 🔐 Authentication
 
 </td>
 <td width="50%">
 
-### ⛓️ Blockchain Infrastructure
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=probably-ABHINAV&repo=blockchain-voting-system&theme=tokyonight&hide_border=true)](https://github.com/probably-ABHINAV/blockchain-voting-system)
+### ⛓️ Rust Blockchain Explorer
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=probably-ABHINAV&repo=rust-blockchain-explorer&theme=tokyonight&hide_border=true)](https://github.com/probably-ABHINAV/rust-blockchain-explorer)
 
-**Tech Stack:** Solidity, Docker, Kubernetes, IPFS  
-⛓️ Decentralized voting | 🔐 Smart contracts | 🌐 Distributed deployment
+**Learning Focus:** Systems Programming, Blockchain, Performance  
+🔍 Real-time data | ⚡ High-performance | 🌐 Cross-platform
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🐍 ML Microservices Platform
+### 🐍 Python ML Microservices
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=probably-ABHINAV&repo=python-ml-microservices&theme=tokyonight&hide_border=true)](https://github.com/probably-ABHINAV/python-ml-microservices)
 
-**Tech Stack:** FastAPI, Docker, K8s, TensorFlow  
-🤖 ML APIs | 🐳 Containerized | 📈 Auto-scaling architecture
+**Learning Focus:** Machine Learning, Microservices, DevOps  
+🤖 ML algorithms | 🐳 Containerization | 📈 Scalable architecture
 
 </td>
 <td width="50%">
 
-### 🚀 Go Cloud-Native System
+### 🚀 Go Distributed System
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=probably-ABHINAV&repo=go-distributed-system&theme=tokyonight&hide_border=true)](https://github.com/probably-ABHINAV/go-distributed-system)
 
-**Tech Stack:** Go, gRPC, Kubernetes, Istio  
-⚡ High-performance | 🕸️ Service mesh | 📊 Observability
+**Learning Focus:** Distributed Systems, Backend Development  
+⚡ Concurrent programming | 🔄 Distributed patterns | 📊 Real-time processing
 
 </td>
 </tr>
 </table>
 
-### 📱 Flutter Cloud-Native App
+### 📱 Flutter Crypto Wallet
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=probably-ABHINAV&repo=flutter-crypto-wallet&theme=tokyonight&hide_border=true)](https://github.com/probably-ABHINAV/flutter-crypto-wallet)
 
-**Tech Stack:** Flutter, Firebase, Kubernetes Backend | 📱 Mobile-first | ☁️ Cloud-native
+**Learning Focus:** Mobile Development, Blockchain Integration | 📱 Cross-platform | 💰 Crypto features
 
 </div>
 
 ---
 
-## ☁️ Cloud & DevOps Arsenal
+## 💻 Technology Learning Stack
 
 <div align="center">
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🐳 Container & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### 🏗️ Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
-
-### 🔄 CI/CD & GitOps
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-### 📊 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-
-### 🔒 Security & Compliance
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00B4C5?style=for-the-badge&logo=falco&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🔧 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### ⛓️ Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 DevOps Metrics Dashboard
+## 📈 Learning Journey Visualization
 
 <div align="center">
 
@@ -263,77 +285,101 @@ spec:
 
 ---
 
-## 🎯 Current DevOps Mission & Goals
+## 🎯 Current Learning Goals & Progress
 
 <div align="center">
 
-### 🚀 **2024 Infrastructure Objectives**
+### 🚀 **2024 Learning Objectives**
 
-| Goal | Progress | Target | Status |
-|------|----------|--------|--------|
-| 🏗️ **Infrastructure Projects** | 5/10 | 10 IaC Repos | 🔥 Building |
-| 🐳 **Container Deployments** | 15/25 | 25 K8s Apps | 🚀 Scaling |
-| 📊 **Monitoring Dashboards** | 8/15 | 15 Grafana Boards | 📈 Growing |
-| 🔄 **CI/CD Pipelines** | 12/20 | 20 Automated Flows | ⚡ Active |
-| ☁️ **Multi-Cloud Setup** | 3/3 | AWS+Azure+GCP | ✅ Complete |
+| Domain | Current Level | Target | Progress | Status |
+|--------|---------------|--------|----------|--------|
+| 🎨 **Frontend** | Intermediate | Advanced | 70% | 🔥 Active |
+| ⚙️ **Backend** | Intermediate | Expert | 65% | 📈 Growing |
+| 📱 **Mobile Dev** | Beginner | Intermediate | 40% | 🚀 Learning |
+| 🤖 **AI/ML** | Beginner | Intermediate | 30% | 🧠 Exploring |
+| ☁️ **Cloud/DevOps** | Beginner | Intermediate | 35% | 🌩️ Building |
+| ⛓️ **Blockchain** | Beginner | Intermediate | 25% | 🔗 Discovering |
 
 </div>
 
-### 🌟 **Daily DevOps Commitment**
-- 🔥 **Infrastructure as Code** - Daily Terraform/Ansible commits
-- 🐳 **Container Orchestration** - Kubernetes manifests and Helm charts
-- 📊 **Monitoring & Alerting** - Prometheus rules and Grafana dashboards
-- 🔄 **CI/CD Optimization** - Pipeline improvements and automation
-- 🔒 **Security Integration** - DevSecOps practices and compliance
+### 🌟 **Weekly Learning Commitment**
+- 📚 **Study Time**: 25+ hours per week
+- 💻 **Coding Practice**: Daily problem solving
+- 🚀 **Project Building**: 2-3 active projects
+- 🤝 **Open Source**: Regular contributions
+- 📖 **Reading**: Tech blogs, documentation, books
 
 ---
 
-## 📊 Weekly Infrastructure Activity
+## 📊 Weekly Coding Activity
 
 ```text
-Terraform       ████████████████████████▓   85.2%
-Kubernetes      ██████████████▓░░░░░░░░░░   58.7%
-Python          ██████████▓░░░░░░░░░░░░░░   42.1%
-Bash/Shell      ████████░░░░░░░░░░░░░░░░░░   32.8%
-Go              ██████░░░░░░░░░░░░░░░░░░░░   25.4%
-YAML/JSON       ████░░░░░░░░░░░░░░░░░░░░░░   18.7%
+JavaScript   ████████████████████████▓   85.2%
+Python       ██████████████▓░░░░░░░░░░   58.7%
+TypeScript   ██████████▓░░░░░░░░░░░░░░   42.1%
+Go           ████████░░░░░░░░░░░░░░░░░░   32.8%
+Rust         ██████░░░░░░░░░░░░░░░░░░░░   25.4%
+Dart         ████░░░░░░░░░░░░░░░░░░░░░░   18.7%
 ```
 
 ---
 
-## 🌟 Recent DevOps Achievements
+## 🌟 Recent Learning Achievements
 
 <div align="center">
 
-🚀 **Deployed 5 cloud-native applications** with full CI/CD automation  
-🐳 **Orchestrated 15+ microservices** using Kubernetes and Istio  
-📊 **Built comprehensive monitoring** with Prometheus and Grafana  
-🔒 **Implemented DevSecOps pipeline** with automated security scanning  
-☁️ **Achieved multi-cloud deployment** across AWS, Azure, and GCP  
-🏗️ **Created Infrastructure as Code** templates for rapid provisioning
+🚀 **Built 5 full-stack applications** with different tech stacks  
+🤖 **Completed machine learning course** with hands-on projects  
+☁️ **Deployed applications** on AWS and Vercel  
+🔗 **Created blockchain projects** with smart contracts  
+📱 **Developed mobile apps** using Flutter and React Native  
+🏆 **Contributed to open source** projects and earned badges
 
 </div>
 
 ---
 
-## 🎮 DevOps Fun Zone
+## 📚 Learning Resources & Inspiration
 
 <div align="center">
 
-### 🦕 **Need a Break from Infrastructure?**
+### 📖 **Currently Reading**
+- "Clean Code" by Robert C. Martin
+- "System Design Interview" by Alex Xu
+- "Hands-On Machine Learning" by Aurélien Géron
 
-[![Dino Game](https://img.shields.io/badge/🦕_Chrome_Dino-Escape_Production_Issues!-success?style=for-the-badge)](https://chromedino.com/)
-[![Snake Game](https://img.shields.io/badge/🐍_Snake_Game-Navigate_Like_Kubernetes!-blue?style=for-the-badge)](https://playsnake.org/)
-[![Tetris](https://img.shields.io/badge/🧩_Tetris-Stack_Like_Docker_Layers!-purple?style=for-the-badge)](https://tetris.com/play-tetris)
+### 🎓 **Online Courses**
+- CS50x - Harvard University
+- Full Stack Open - University of Helsinki
+- Machine Learning Course - Stanford University
 
-### 🎵 **Coding Soundtrack**
-*Check out what I'm listening to while building infrastructure! 🎧*
+### 🎯 **Learning Platforms**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/probably-abhinav)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org)
 
 </div>
 
 ---
 
-## 📫 Let's Build Infrastructure Together
+## 🎮 Study Break Zone
+
+<div align="center">
+
+### 🦕 **Brain Break Games**
+
+[![Dino Game](https://img.shields.io/badge/🦕_Chrome_Dino-Debug_Your_Mind!-success?style=for-the-badge)](https://chromedino.com/)
+[![Snake Game](https://img.shields.io/badge/🐍_Snake_Game-Algorithm_Practice!-blue?style=for-the-badge)](https://playsnake.org/)
+[![Tetris](https://img.shields.io/badge/🧩_Tetris-Pattern_Recognition!-purple?style=for-the-badge)](https://tetris.com/play-tetris)
+
+### 🎵 **Study Playlist**
+*Check out what keeps me focused while coding! 🎧*
+
+</div>
+
+---
+
+## 📫 Let's Connect & Learn Together
 
 <div align="center">
 
@@ -349,21 +395,21 @@ YAML/JSON       ████░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-### 💡 **"Infrastructure is not just about servers, it's about enabling dreams to scale."** - DevOps Philosophy
+### 💡 **"The expert in anything was once a beginner."** - Helen Hayes
 
 ![Snake animation](https://github.com/probably-ABHINAV/probably-ABHINAV/blob/output/github-contribution-grid-snake.svg)
 
-### 🚀 **Building Tomorrow's Infrastructure Today**
+### 🚀 **Learning Today, Leading Tomorrow**
 
-**⭐ Star my repositories if they help your DevOps journey!**  
-**🤝 Let's collaborate and automate the world together!**
+**⭐ Star my repositories if they help your learning journey!**  
+**🤝 Let's learn and build amazing things together!**
 
 ---
 
-**Made with ❤️, lots of ☕, and endless automation by [ABHINAV RAJ](https://github.com/probably-ABHINAV)**
+**Made with ❤️, curiosity, and lots of ☕ by [ABHINAV RAJ](https://github.com/probably-ABHINAV)**
 
-*"Every commit is a step towards a more automated, scalable, and reliable digital infrastructure." 🌟*
+*"Every line of code is a step forward in my learning journey. Every project is a new adventure in technology." 🌟*
 
-**🔧 Current Status: Automating Everything | 📊 Monitoring Everything | ☁️ Scaling Everything**
+**🎓 Current Status: Learning Everything | 💻 Building Everything | 🚀 Sharing Everything**
 
 </div>

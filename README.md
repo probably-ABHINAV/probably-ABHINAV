@@ -425,13 +425,49 @@ Dart         ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-### 💡 **"The expert in anything was once a beginner."** - Helen Hayes
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=2"/>
 
-<div align="center">
+<br>
 
-## 🐍 Contribution Snake
+# 🌌 Contribution Universe
 
-<img src="https://raw.githubusercontent.com/probably-ABHINAV/probably-ABHINAV/output/ocean.gif" alt="snake animation" />
+### *"The expert in anything was once a beginner."*
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/probably-ABHINAV/probably-ABHINAV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/probably-ABHINAV/probably-ABHINAV/output/github-contribution-grid-snake.svg">
+  <img 
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/probably-ABHINAV/probably-ABHINAV/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+  />
+</picture>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:A855F7,100:00F5FF&height=6"/>
+
+<br><br>
+
+# 🚀 Learning Today • Building Tomorrow
+
+### Turning ideas into scalable systems, one commit at a time.
+
+<br>
+
+<img src="https://img.shields.io/badge/Open_Source-Learner-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_+_DevOps-Explorer-0D1117?style=for-the-badge&logo=openai&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/Future-Cloud_Engineer-0D1117?style=for-the-badge&logo=icloud&logoColor=00F5FF"/>
+
+<br><br>
+
+⭐ *Star my repositories if they help your learning journey.*
+
+🤝 *Let's build amazing things together.*
 
 </div>
 

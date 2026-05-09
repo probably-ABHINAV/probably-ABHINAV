@@ -1,23 +1,28 @@
-name: Generate Snake Animation
+name: 🐍 Generate Premium Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  build:
+    name: Generate Snake Assets
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
-    runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate GitHub Contribution Snake
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: probably-ABHINAV
@@ -25,10 +30,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?palette=github-dark
-            dist/github-snake.svg
+            dist/ocean.gif?color_snake=00F5FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+            dist/premium-snake.svg?palette=github-dark
 
-      - name: Push Snake Animation to Output Branch
+      - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

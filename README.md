@@ -403,7 +403,9 @@ Dart         ████░░░░░░░░░░░░░░░░░░�
 
 ### 💡 **"The expert in anything was once a beginner."** - Helen Hayes
 
-![Snake animation](https://github.com/probably-ABHINAV/probably-ABHINAV/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/probably-ABHINAV/probably-ABHINAV/output/ocean.gif" alt="Snake animation" />
+</p>
 
 ### 🚀 **Learning Today, Leading Tomorrow**
 

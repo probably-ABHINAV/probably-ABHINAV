@@ -1,17 +1,41 @@
+<!-- ========================= HERO SECTION ========================= -->
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,25:203A43,50:2C5364,75:0F4C75,100:3282B8&text=ABHINAV%20RAJ&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20DevOps%20Explorer%20•%20Cloud%20Builder&descAlignY=58&animation=fadeIn"
+  />
+</p>
+
 <div align="center">
 
-# 🚀 ABHINAV RAJ
-### Computer Science Student | Full-Stack Developer | Learning Enthusiast
+# ⚡ Building the Future with AI, Cloud & Code
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+%2B+DevOps+Explorer;Building+Cool+Things+with+Code;Open+Source+Learner;Future+Cloud+Engineer)](https://git.io/typing-svg)
+### Engineering intelligent systems, scalable workflows, and modern developer experiences.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=probably-ABHINAV&color=blueviolet&style=for-the-badge)](https://github.com/probably-ABHINAV)
-[![GitHub followers](https://img.shields.io/github/followers/probably-ABHINAV?style=for-the-badge&color=blue)](https://github.com/probably-ABHINAV)
-[![GitHub stars](https://img.shields.io/github/stars/probably-ABHINAV?style=for-the-badge&color=yellow)](https://github.com/probably-ABHINAV)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=1000&lines=AI+%2B+DevOps+Explorer;Building+Cool+Things+with+Code;Creating+Modern+Developer+Experiences;Open+Source+Learner;Future+Cloud+Engineer;Shipping+Ideas+Into+Reality)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://img.shields.io/github/followers/probably-ABHINAV?style=for-the-badge&logo=github&label=Followers&color=A855F7&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/stars/probably-ABHINAV?style=for-the-badge&logo=github&label=Stars&color=FFD700&labelColor=0D1117"/>
+
+<img src="https://komarev.com/ghpvc/?username=probably-ABHINAV&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=probably-ABHINAV&theme=tokyonight" />
 
 </div>
 
 ---
+
+
+<div align="center">
+
+
 
 ## 🎯 About Me
 

@@ -451,25 +451,21 @@ Dart         ████░░░░░░░░░░░░░░░░░░�
 
 <br><br>
 
-# 🚀 Learning Today • Building Tomorrow
+---
 
-### Turning ideas into scalable systems, one commit at a time.
+## 🎧 Vibing While Coding
 
-<br>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Open_Source-Learner-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI_+_DevOps-Explorer-0D1117?style=for-the-badge&logo=openai&logoColor=A855F7"/>
-
-<img src="https://img.shields.io/badge/Future-Cloud_Engineer-0D1117?style=for-the-badge&logo=icloud&logoColor=00F5FF"/>
+<img src="./githubgif.gif" width="100%" />
 
 <br><br>
 
-⭐ *Star my repositories if they help your learning journey.*
-
-🤝 *Let's build amazing things together.*
+### 🎵 Music • Code • Creativity
 
 </div>
+
+---
 
 ### 🚀 **Learning Today, Leading Tomorrow**
 
